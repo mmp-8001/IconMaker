@@ -10,8 +10,10 @@ Just run main.py and enter path of movie
 
 ## Result
 
-Folder of movie
-![alt text](https://github.com/mmp-8001/IconMaker/blob/main/movie_example.png?raw=true)
+#### Movie
 
-Folder of series
-![alt text](https://github.com/mmp-8001/IconMaker/blob/main/series_example.png?raw=true)
+![movie example](https://github.com/mmp-8001/IconMaker/blob/main/movie_example.png?raw=true)
+
+#### Series
+
+![series example](https://github.com/mmp-8001/IconMaker/blob/main/series_example.png?raw=true)
